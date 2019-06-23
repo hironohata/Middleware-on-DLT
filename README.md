@@ -1,3 +1,3 @@
 # Middleware-on-DLT
 
-![Fig Middleware](Middlewarelayer.png)
+![Fig Middleware](MiddlewareLayer.png)
