@@ -1,4 +1,4 @@
-# Middleware-on-DLT
+# Middleware-for-DLT
 
 ![Fig Middleware](MiddlewareLayer.png)
 
